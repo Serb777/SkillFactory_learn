@@ -1,1 +1,4 @@
 test.py
+.vscode/settings.json
+Test/__pycache__/Cat.cpython-39.pyc
+Test/__pycache__/rectangle.cpython-39.pyc
